@@ -262,7 +262,7 @@ b2.pos.set(30,30);
 b1 pos will end up being 20,20 and b2 30,30 while if you do the equivalent in java both b1 and b2 will have position 30,30:
 
 
-```cpp
+```java
 Ball b1 = new Ball();
 b1.pos.set(20,20);
 Ball b2;
